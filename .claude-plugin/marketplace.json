@@ -1,0 +1,34 @@
+{
+  "name": "shabash",
+  "description": "Free Shabash plugins for Claude Code and Codex: standup, brag doc, session search and export from your own history.",
+  "owner": {
+    "name": "Shabash",
+    "url": "https://shabash.dev"
+  },
+  "plugins": [
+    {
+      "name": "shabash",
+      "source": "./",
+      "description": "Daily standup, brag doc for performance reviews, Claude Code session search, chat export to markdown, and a fix for Claude Code deleting your old sessions, written from the history on your computer, for Claude Code and Codex: /shabash:standup, /shabash:brag, /shabash:search, /shabash:export, /shabash:threads, /shabash:keep. Nothing goes to Shabash.",
+      "category": "productivity",
+      "tags": [
+        "standup",
+        "daily standup",
+        "daily update",
+        "brag doc",
+        "brag document",
+        "self review",
+        "performance review",
+        "weekly summary",
+        "session history",
+        "search sessions",
+        "find old session",
+        "resume session",
+        "export chat",
+        "save conversation",
+        "markdown",
+        "chat history disappeared"
+      ]
+    }
+  ]
+}

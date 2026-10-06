@@ -1,0 +1,38 @@
+{
+  "name": "shabash",
+  "displayName": "Shabash",
+  "version": "0.3.0",
+  "description": "Daily standup, brag doc for performance reviews, Claude Code session search, chat export to markdown, and a fix for Claude Code deleting your old sessions, written from the history on your computer, for Claude Code and Codex: /shabash:standup, /shabash:brag, /shabash:search, /shabash:export, /shabash:threads, /shabash:keep. Nothing goes to Shabash.",
+  "author": {
+    "name": "Shabash",
+    "url": "https://shabash.dev"
+  },
+  "homepage": "https://shabash.dev/?utm_source=claude_plugin&utm_medium=plugin&utm_campaign=shabash_plugin",
+  "keywords": [
+    "standup",
+    "daily standup",
+    "daily update",
+    "brag doc",
+    "brag document",
+    "self review",
+    "performance review",
+    "weekly summary",
+    "session history",
+    "search sessions",
+    "find old session",
+    "resume session",
+    "export chat",
+    "save conversation",
+    "markdown",
+    "chat history disappeared",
+    "cleanupPeriodDays",
+    "what was I working on",
+    "claude code",
+    "codex"
+  ],
+  "repository": "https://github.com/shabash-dev/shabash-plugins",
+  "documentationUrl": "https://github.com/shabash-dev/shabash-plugins#readme",
+  "supportUrl": "https://github.com/shabash-dev/shabash-plugins/issues",
+  "privacyPolicyUrl": "https://shabash.dev/privacy/#free-plugins-for-claude-code",
+  "termsOfServiceUrl": "https://shabash.dev/terms/"
+}

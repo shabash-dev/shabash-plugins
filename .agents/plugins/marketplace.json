@@ -1,0 +1,20 @@
+{
+  "name": "shabash",
+  "interface": {
+    "displayName": "Shabash"
+  },
+  "plugins": [
+    {
+      "name": "shabash",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
