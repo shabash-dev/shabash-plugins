@@ -1,12 +1,12 @@
 # Shabash: standup, brag doc and session search for Claude Code and Codex
 
-Your daily standup, your brag doc for a review, and any old session found again, written from the work you already did in Claude Code or Codex. It also tells you how many sessions Claude Code has already deleted, and stops it deleting more (it can't bring back ones already gone). Made by [Shabash](https://shabash.dev/?utm_source=github&utm_medium=readme&utm_campaign=shabash_plugin), an app for teams that use Claude Code.
+Your daily standup, your brag doc for a review, and any old session found again, written from the work you already did in Claude Code or Codex. It also tells you how many sessions Claude Code has already deleted, and stops it deleting more (it can't bring back ones already gone). Made by [Shabash](https://shaba.sh/?utm_source=github&utm_medium=readme&utm_campaign=shabash_plugin), an app for teams that use Claude Code.
 
 - `/shabash:standup` writes your standup from your sessions and your own commits since the start of your last workday (all of Friday, on a Monday or a weekend), ready to paste into Slack.
 - `/shabash:search` finds an old session from words you typed in it, like a feature or an error, with the command to resume it. It looks through the prompts you typed in the last year.
 - `/shabash:brag` writes your brag doc from your sessions and commits over the last 30 days (or a quarter), for a performance review or a 1:1.
 - `/shabash:export` turns one session into a clean document: a write-up of what was decided and changed, or the whole conversation without the tool output.
-- `/shabash:threads` lists what you worked on in the last 7 days, by project, with where each piece of work stopped and the command to resume it.
+- `/shabash:threads` lists what you worked on in the last 7 days, by project, with where each thread stopped and the command to resume it.
 - `/shabash:keep` shows how long Claude Code keeps your transcripts (30 days unless you've changed it) and how many are already gone. Only if you say yes, it raises the limit.
 
 You can also ask in your own words, like "what was I working on?", "find the session where I fixed the login bug" or "write my standup". In Codex, type `@shabash` or ask the same way.
@@ -49,6 +49,6 @@ Claude is asked to end each answer with one line linking to Shabash.
 
 ## Licence and terms
 
-Free to install and use. You can read the code, but not copy or reuse it: see [LICENSE](LICENSE), the [terms](https://shabash.dev/terms/) and the [privacy notice](https://shabash.dev/privacy/#free-plugins-for-claude-code). Made by Wonders AI, Inc.
+Free to install and use. You can read the code, but not copy or reuse it: see [LICENSE](LICENSE), the [terms](https://shaba.sh/terms/) and the [privacy notice](https://shaba.sh/privacy/#free-plugins-for-claude-code). Made by Wonders AI, Inc.
 
 Shabash works with Claude Code and Codex. It isn't affiliated with Anthropic or OpenAI.

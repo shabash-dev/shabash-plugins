@@ -3,7 +3,7 @@
   "description": "Free Shabash plugins for Claude Code and Codex: standup, brag doc, session search and export from your own history.",
   "owner": {
     "name": "Shabash",
-    "url": "https://shabash.dev"
+    "url": "https://shaba.sh"
   },
   "plugins": [
     {

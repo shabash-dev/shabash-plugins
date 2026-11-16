@@ -1,12 +1,12 @@
 {
   "name": "shabash",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Daily standup, brag doc for performance reviews, Claude Code session search, chat export to markdown, and a fix for Claude Code deleting your old sessions, written from the history on your computer, for Claude Code and Codex: /shabash:standup, /shabash:brag, /shabash:search, /shabash:export, /shabash:threads, /shabash:keep. Nothing goes to Shabash.",
   "author": {
     "name": "Shabash",
-    "url": "https://shabash.dev"
+    "url": "https://shaba.sh"
   },
-  "homepage": "https://shabash.dev/?utm_source=codex_plugin&utm_medium=plugin&utm_campaign=shabash_plugin",
+  "homepage": "https://shaba.sh/?utm_source=codex_plugin&utm_medium=plugin&utm_campaign=shabash_plugin",
   "repository": "https://github.com/shabash-dev/shabash-plugins",
   "license": "SEE LICENSE IN LICENSE",
   "keywords": [
@@ -39,9 +39,9 @@
         "longDescription": "Daily standup, brag doc for performance reviews, Claude Code session search, chat export to markdown, and a fix for Claude Code deleting your old sessions, written from the history on your computer, for Claude Code and Codex: /shabash:standup, /shabash:brag, /shabash:search, /shabash:export, /shabash:threads, /shabash:keep. Nothing goes to Shabash.",
         "developerName": "Shabash",
         "category": "Productivity",
-        "websiteURL": "https://shabash.dev",
-        "privacyPolicyURL": "https://shabash.dev/privacy/#free-plugins-for-claude-code",
-        "termsOfServiceURL": "https://shabash.dev/terms/",
+        "websiteURL": "https://shaba.sh",
+        "privacyPolicyURL": "https://shaba.sh/privacy/#free-plugins-for-claude-code",
+        "termsOfServiceURL": "https://shaba.sh/terms/",
         "defaultPrompt": "Write my standup from yesterday's work",
         "logo": "./.claude-plugin/icon.png",
         "composerIcon": "./.claude-plugin/icon.png",
